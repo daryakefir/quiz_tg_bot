@@ -112,7 +112,7 @@ def wake_up(message):
         text=f'Hello, {name}! '
              'Do you wanna play the quiz about Solidity❔❔❔ \n'
              'There will be 10 questions with 30 seconds for each. \n'
-             'At the end of the quiz, a surprise awaits you! 🎁 \n'
+             'A very special surprise awaits you at the end of quiz! 🎁 \n'
              'Push /newquiz 👣',
         reply_markup=keyboard,
     )
