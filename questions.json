@@ -1,0 +1,224 @@
+[
+    {
+        "question": "What is the difference between a pure function and a view function?",
+        "pic": "questions_pic/1.jpg",
+        "options": ["A" , "B"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the difference between a transaction and a call?",
+        "pic": "questions_pic/2.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "A"
+    },
+    {
+        "question": "The wallet has 1 ETH. Is it possible to send another user 1 ETH?",
+        "pic": "questions_pic/3.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "D"
+    },
+    {
+        "question": "What is the purpose of declaring the receive function?",
+        "pic": "questions_pic/4.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "A"
+    },
+    {
+        "question": "Choose the correct statement about the require function and the revert function:",
+        "pic": "questions_pic/6.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "D"
+    },
+    {
+        "question": "Data types in Solidity:",
+        "pic": "questions_pic/9.jpg",
+        "options": ["A" , "B"],
+        "answer": "A"
+    },
+    {
+        "question": "Choose the correct statement about mapping:",
+        "pic": "questions_pic/10.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "C"
+    },
+    {
+        "question": "Does reading data from the blockchain consume gas?",
+        "pic": "questions_pic/11.jpg",
+        "options": ["A" , "B"],
+        "answer": "B"
+    },
+    {
+        "question": "Data in the blockchain can be:",
+        "pic": "questions_pic/12.jpg",
+        "options": ["A", "B" ,"C"],
+        "answer": "C"
+    },
+    {
+        "question": "Solidity is:",
+        "pic": "questions_pic/13.jpg",
+        "options": ["A" , "B"],
+        "answer": "A"
+    },
+    {
+        "question": "Choose the correct statement about dApps:",
+        "pic": "questions_pic/14.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "B"
+    },
+    {
+        "question": "Which data type is not supported in Solidity?",
+        "pic": "questions_pic/15.jpg",
+        "options": ["A" ,"B" ,"C" ,"D" ,"E"],
+        "answer": "B"
+    },
+    {
+        "question": "What does the transfer function do in ERC20 contracts?",
+        "pic": "questions_pic/16.jpg",
+        "options": ["A" , "B"],
+        "answer": "B"
+    },
+    {
+        "question": "Tokens in the context of blockchain technology are:",
+        "pic": "questions_pic/17.jpg",
+        "options": ["A", "B" ,"C"],
+        "answer": "A"
+    },
+    {
+        "question": "Which of the types is reference type in Solidity?",
+        "pic": "questions_pic/18.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "C"
+    },
+    {
+        "question": "How much gasLimit is?",
+        "pic": "questions_pic/19.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "B"
+    },
+    {
+        "question": "Choose the correct statement:",
+        "pic": "questions_pic/20.jpg",
+        "options": ["A", "B" ,"C"],
+        "answer": "C"
+    },
+    {
+        "question": "Ethereum uses the algorithm:",
+        "pic": "questions_pic/21.jpg",
+        "options": ["A" , "B"],
+        "answer": "B"
+    },
+    {
+        "question": "Gwei is:",
+        "pic": "questions_pic/22.jpg",
+        "options": ["A" ,"B" ,"C" ,"D" ,"E"],
+        "answer": "C"
+    },
+    {
+        "question": "Wei is:",
+        "pic": "questions_pic/23.jpg",
+        "options": ["A" ,"B" ,"C" ,"D" ,"E"],
+        "answer": "B"
+    },
+    {
+        "question": "What is not included in the structure of a smart contract:",
+        "pic": "questions_pic/24.jpg",
+        "options": ["A" ,"B" ,"C" ,"D" ,"E"],
+        "answer": "E"
+    },
+    {
+        "question": "Modifiers are",
+        "pic": "questions_pic/25.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "C"
+    },
+    {
+        "question": "Choose the correct statement about constants:",
+        "pic": "questions_pic/26.jpg",
+        "options": ["A" ,"B" ,"C" ,"D" ,"E"],
+        "answer": "D"
+    },
+    {
+        "question": "How many times is the constructor called?",
+        "pic": "questions_pic/27.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the default visibility of functions?",
+        "pic": "questions_pic/28.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the difference between local variables and state variables?",
+        "pic": "questions_pic/29.jpg",
+        "options": ["A" ,"B" ,"C" ,"D" ,"E"],
+        "answer": "B"
+    },
+    {
+        "question": "What method can be used to send ETH to a called function?",
+        "pic": "questions_pic/30.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "D"
+    },
+    {
+        "question": "Enum is:",
+        "pic": "questions_pic/31.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "A"
+    },
+    {
+        "question": "The size of a mapping can be determined with:",
+        "pic": "questions_pic/32.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "D"
+    },
+    {
+        "question": "Choose the correct statement about a memory and a storage:",
+        "pic": "questions_pic/33.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "B"
+    },
+    {
+        "question": "What can help reduce transaction costs?",
+        "pic": "questions_pic/34.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "D"
+    },
+    {
+        "question": "What visibility of functions does not exist?",
+        "pic": "questions_pic/35.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "C"
+    },
+    {
+        "question": "Which programming language can make unit testing of contracts?",
+        "pic": "questions_pic/36.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "D"
+    },
+    {
+        "question": "Abstract contracts can:",
+        "pic": "questions_pic/37.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "A"
+    },
+    {
+        "question": "Choose the correct statement about EVM:",
+        "pic": "questions_pic/39.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "A"
+    },
+    {
+        "question": "What does this code do?",
+        "pic": "questions_pic/40.jpg",
+        "options": ["A", "B" ,"C"],
+        "answer": "A"
+    },
+    {
+        "question": "Choose the correct statement about this code:",
+        "pic": "questions_pic/41.jpg",
+        "options": ["A", "B" ,"C", "D"],
+        "answer": "D"
+    }
+]
