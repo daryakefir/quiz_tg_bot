@@ -4,7 +4,7 @@ from telebot import TeleBot, types
 
 from service_functions import load_json_data, get_new_image
 
-bot = TeleBot(token='7944950642:AAH8_5nJSzuguJZhfCW7I3eeJAwKELPFCHA')
+bot = TeleBot(token='YOUR TOKEN')
 
 
 questions = load_json_data('questions.json')
